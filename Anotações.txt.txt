@@ -1,0 +1,2 @@
+Link pra dwload do Git:https://git-scm.com/downloads
+O Git sash é um terminal extendido pra otimizar o uso do Git.
